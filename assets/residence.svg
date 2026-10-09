@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="355" viewBox="0 0 600 355" fill="none">
+<defs><linearGradient id="wall" x1="140" y1="50" x2="400" y2="310" gradientUnits="userSpaceOnUse"><stop stop-color="#d8ddc9"/><stop offset="1" stop-color="#b0c3b1"/></linearGradient><linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5e8585"/><stop offset="1" stop-color="#345962"/></linearGradient></defs>
+<ellipse cx="300" cy="319" rx="252" ry="20" fill="#122b31"/>
+<circle cx="492" cy="73" r="37" fill="#c7b98a" opacity=".14"/>
+<path d="M26 318H575" stroke="#5f8180" stroke-width="2"/>
+<path d="M113 94 353 52 478 87v220H113V94Z" fill="url(#wall)"/>
+<path d="m353 52 125 35v220H353V52Z" fill="#99afa4"/>
+<path d="m102 87 251-44 136 38v17L353 63 102 108V87Z" fill="#e4dfc9"/>
+<path d="m353 63 136 35V81L353 43v20Z" fill="#a8b9a8"/>
+<path d="M134 115 333 83v170H134V115Z" fill="#f0e9d7"/>
+<path d="M150 125 193 119v49l-43 5v-48Zm61-9 43-7v50l-43 6v-49Zm61-10 43-7v50l-43 7v-50ZM150 190l43-5v46l-43 3v-44Zm61-7 43-5v49l-43 2v-46Zm61-7 43-6v52l-43 3v-49Z" fill="url(#glass)"/>
+<path d="m150 137 43-6m-43 70 43-5m18-67 43-7m-43 71 43-5m18-71 43-7m-43 76 43-5" stroke="#87a5a0" stroke-width="3"/>
+<path d="M139 175 326 151M139 240l187-17" stroke="#d6c9a6" stroke-width="6"/>
+<path d="M378 116 410 124v44l-32-5v-47Zm47 13 31 7v39l-31-5v-41ZM378 191l32 4v42l-32-3v-43Zm47 7 31 4v38l-31-2v-40Z" fill="#547776"/>
+<path d="M134 266h199v42H134v-42Z" fill="#e8e2c8"/><path d="M212 262h56v45h-56v-45Z" fill="#3f6364"/><path d="M240 263v44" stroke="#88a29b" stroke-width="2"/><circle cx="249" cy="286" r="2" fill="#c5bc8b"/>
+<path d="M177 253h115v11H177v-11Z" fill="#bfc9ad"/><path d="M208 309h67v6h-67m-8 6h83" stroke="#d6d9bc" stroke-width="5"/>
+<path d="M141 286h38v21h-38v-21Zm160 0h31v21h-31v-21Z" fill="#617c62"/><path d="M153 285c-9-19 5-24 12-11 5-18 18-17 15 11m128 0c-11-23 6-24 10-8 11-12 18-6 12 8" fill="#84a184"/>
+<path d="M79 315V195m448 120V160" stroke="#799883" stroke-width="7"/><path d="M79 231c-35 0-45-21-43-32 27 0 39 15 43 32Zm0-14c-10-38 4-64 18-68 15 27 3 50-18 68Zm0 7c18-31 46-31 57-18-16 24-34 27-57 18Zm448-6c-29-27-57-21-67-7 22 18 45 22 67 7Zm0-14c-17-44-4-65 7-69 19 24 15 50-7 69Zm0 10c25-27 48-28 66-10-22 21-42 22-66 10Z" fill="#799b86"/>
+<path d="M62 315h38l-4-28H66l-4 28Zm450 0h34l-4-34h-26l-4 34Z" fill="#b3b79b"/><rect x="127" y="276" width="32" height="7" rx="2" fill="#c7c3a4"/>
+<path d="M45 102h32M506 37h19" stroke="#88a0a0" opacity=".4" stroke-width="2" stroke-linecap="round"/><circle cx="59" cy="69" r="3" fill="#b6bea5" opacity=".6"/>
+</svg>

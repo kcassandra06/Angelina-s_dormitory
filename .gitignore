@@ -1,0 +1,4 @@
+/storage/*
+!/storage/.htaccess
+/config.local.php
+/config.database.php

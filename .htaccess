@@ -1,0 +1,5 @@
+Options -Indexes
+DirectoryIndex index.php
+<FilesMatch "^(config.*\.php|router\.php|start\.ps1|README\.md)$">
+Require all denied
+</FilesMatch>
